@@ -1,0 +1,826 @@
+[ 2018-11-19T19:59:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000365s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000412s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:00:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000366s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000415s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000228s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:01:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000357s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000405s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:02:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000367s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000412s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000245s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:03:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000438s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000484s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:04:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000363s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000297s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:05:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000365s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000413s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000289s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:06:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000358s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000400s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000250s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000291s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:07:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000359s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000403s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000260s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000287s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:08:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000340s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000383s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:09:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000361s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000408s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000264s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000292s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:10:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000370s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000420s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000242s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:11:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000375s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000424s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000256s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:12:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000371s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000416s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:13:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000359s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:14:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000352s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000394s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000251s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:15:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000351s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000400s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:16:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000358s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000405s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:17:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000379s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000449s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000304s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:18:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000334s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000377s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000219s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000241s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:19:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000365s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000410s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000238s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:20:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000367s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000414s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000260s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:21:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000354s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000398s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:22:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000363s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000406s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:23:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000358s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:24:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000337s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000381s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000284s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000310s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:25:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000355s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000399s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000233s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000262s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:26:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000352s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000397s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000225s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000249s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:26:15+08:00 ] 182.117.174.211 /admin/index/main.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000369s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000414s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000227s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000253s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/gold_com/public_html/Core/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `bao_admin` [ RunTime:0.001337s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT * FROM `bao_admin` WHERE ( `admin_id` = 1 ) LIMIT 1   [ RunTime:0.000939s ]
+SQL: SHOW COLUMNS FROM `bao_order` [ RunTime:0.001161s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_order` WHERE ( `status` >= 0 ) LIMIT 1   [ RunTime:0.000910s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_order` WHERE ( `status` >= 0 ) LIMIT 1   [ RunTime:0.000898s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_order` WHERE ( `status` >= 0 ) LIMIT 1   [ RunTime:0.000896s ]
+SQL: SHOW COLUMNS FROM `bao_shopyuyue` [ RunTime:0.001080s ]
+ERR: 1146:Table 'hongbaomysqldb.bao_shopyuyue' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `bao_shopyuyue`
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+NOTIC: [2] strtoupper() expects parameter 1 to be string, array given /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 509 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_shopyuyue` WHERE ( (`create_time` <= 1542630375) AND (`create_time` >= 1542556800)  ) LIMIT 1   [ RunTime:0.000953s ]
+ERR: 1146:Table 'hongbaomysqldb.bao_shopyuyue' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `bao_shopyuyue` WHERE ( (`create_time` <= 1542630375) AND (`create_time` >= 1542556800)  ) LIMIT 1  
+SQL: SHOW COLUMNS FROM `bao_users` [ RunTime:0.001209s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_users` LIMIT 1   [ RunTime:0.000910s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+NOTIC: [2] strtoupper() expects parameter 1 to be string, array given /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 509 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_users` WHERE ( (`reg_time` <= 1542630375) AND (`reg_time` >= 1542556800)  ) LIMIT 1   [ RunTime:0.006853s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_users` WHERE (  (`mobile` IS NULL)  ) LIMIT 1   [ RunTime:0.000918s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_users` WHERE (  (`email` IS NULL)  ) LIMIT 1   [ RunTime:0.000912s ]
+SQL: SHOW COLUMNS FROM `bao_connect` [ RunTime:0.001070s ]
+ERR: 1146:Table 'hongbaomysqldb.bao_connect' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `bao_connect`
+NOTIC: [8] Use of undefined constant weixin - assumed 'weixin' /www/web/gold_com/public_html/Baocms/Lib/Action/Admin/IndexAction.class.php 第 73 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_connect` WHERE ( `type` = 'weixin' ) LIMIT 1   [ RunTime:0.000915s ]
+ERR: 1146:Table 'hongbaomysqldb.bao_connect' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `bao_connect` WHERE ( `type` = 'weixin' ) LIMIT 1  
+NOTIC: [8] Use of undefined constant weibo - assumed 'weibo' /www/web/gold_com/public_html/Baocms/Lib/Action/Admin/IndexAction.class.php 第 74 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_connect` WHERE ( `type` = 'weibo' ) LIMIT 1   [ RunTime:0.000906s ]
+ERR: 1146:Table 'hongbaomysqldb.bao_connect' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `bao_connect` WHERE ( `type` = 'weibo' ) LIMIT 1  
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' /www/web/gold_com/public_html/Baocms/Lib/Action/Admin/IndexAction.class.php 第 75 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_connect` WHERE ( `type` = 'qq' ) LIMIT 1   [ RunTime:0.000935s ]
+ERR: 1146:Table 'hongbaomysqldb.bao_connect' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `bao_connect` WHERE ( `type` = 'qq' ) LIMIT 1  
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+NOTIC: [2] strtoupper() expects parameter 1 to be string, array given /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 509 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_connect` WHERE ( (`reg_time` <= 1542630375) AND (`reg_time` >= 1542556800)  ) LIMIT 1   [ RunTime:0.000912s ]
+ERR: 1146:Table 'hongbaomysqldb.bao_connect' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `bao_connect` WHERE ( (`reg_time` <= 1542630375) AND (`reg_time` >= 1542556800)  ) LIMIT 1  
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_order` WHERE ( `status` >= 0 ) LIMIT 1   [ RunTime:0.000904s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT `user_id` FROM `bao_users` WHERE ( is_robot=1 )  [ RunTime:0.000914s ]
+SQL: SHOW COLUMNS FROM `bao_paid` [ RunTime:0.001133s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_paid` WHERE ( user_id in (1675634,1675635,1675618,1675619,1675620,1675621,1675622,1675623,1675624,1675625,1675626,1675627,1675628,1675629,1675630,1675631,1675632,1675633,1675613,1675615,1675616,1675636,1675637,1675638,1675639,1675640) )  [ RunTime:0.000927s ]
+SQL: SHOW COLUMNS FROM `bao_kickback` [ RunTime:0.001163s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_kickback` WHERE ( is_robot=1 )  [ RunTime:0.000914s ]
+SQL: SHOW COLUMNS FROM `bao_fanyong` [ RunTime:0.001107s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(fenyong_edu) as money FROM `bao_fanyong` WHERE ( 1 )  [ RunTime:0.000914s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_paid` WHERE ( 1 )  [ RunTime:0.000934s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_paid` WHERE ( type=7 and is_afect=1 )  [ RunTime:0.000908s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_paid` WHERE ( remark='体验金' )  [ RunTime:0.000926s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_paid` WHERE ( remark='支付宝充值' )  [ RunTime:0.000924s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_paid` WHERE ( remark='支付宝充值' and creatime>1542556800 )  [ RunTime:0.000912s ]
+SQL: SHOW COLUMNS FROM `bao_tixian` [ RunTime:0.001142s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_tixian` WHERE ( 1 )  [ RunTime:0.000918s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_tixian` WHERE ( status=1 )  [ RunTime:0.000922s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_tixian` WHERE ( time>1542556800 )  [ RunTime:0.000919s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_tixian` WHERE ( status=1 and time>1542556800 )  [ RunTime:0.000920s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_paid` WHERE ( remark='发送红包' ) LIMIT 1   [ RunTime:0.000896s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_paid` WHERE ( remark='中雷' and money>0 ) LIMIT 1   [ RunTime:0.000896s ]
+NOTIC: [8] Constant THEME_PATH already defined /www/web/gold_com/public_html/Core/Lib/Core/View.class.php 第 154 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined /www/web/gold_com/public_html/Core/Lib/Core/View.class.php 第 155 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 168 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 197 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 137 行.
+NOTIC: [8] Undefined index: site /www/web/gold_com/public_html/Baocms/Runtime/Cache/Admin/3e120f5f89d5ac0ba8b2a7d7f756f1a6.php 第 5 行.
+NOTIC: [8] Undefined index: site /www/web/gold_com/public_html/Baocms/Runtime/Cache/Admin/3e120f5f89d5ac0ba8b2a7d7f756f1a6.php 第 6 行.
+NOTIC: [8] Undefined index: site /www/web/gold_com/public_html/Baocms/Runtime/Cache/Admin/3e120f5f89d5ac0ba8b2a7d7f756f1a6.php 第 7 行.
+NOTIC: [8] Undefined variable: ad /www/web/gold_com/public_html/Baocms/Runtime/Cache/Admin/3e120f5f89d5ac0ba8b2a7d7f756f1a6.php 第 106 行.
+NOTIC: [8] Undefined variable: v /www/web/gold_com/public_html/Baocms/Runtime/Cache/Admin/3e120f5f89d5ac0ba8b2a7d7f756f1a6.php 第 107 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008353s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008386s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000234s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000151s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000096s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000722s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000364s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000395s ]
+
+[ 2018-11-19T20:27:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000366s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000418s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000323s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:28:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000355s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000403s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000250s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:29:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000338s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000383s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000224s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000248s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:30:01+08:00 ] 182.117.174.211 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000345s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000395s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000270s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+ERR: 非法操作:check
+
+[ 2018-11-19T20:30:21+08:00 ] 182.117.174.211 /admin/index/main.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000362s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000408s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000257s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 588 行.
+NOTIC: [8192] mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/web/gold_com/public_html/Core/Lib/Driver/Db/DbMysql.class.php 第 55 行.
+SQL: SHOW COLUMNS FROM `bao_admin` [ RunTime:0.001506s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT * FROM `bao_admin` WHERE ( `admin_id` = 1 ) LIMIT 1   [ RunTime:0.001134s ]
+SQL: SHOW COLUMNS FROM `bao_order` [ RunTime:0.001360s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_order` WHERE ( `status` >= 0 ) LIMIT 1   [ RunTime:0.001122s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_order` WHERE ( `status` >= 0 ) LIMIT 1   [ RunTime:0.001104s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_order` WHERE ( `status` >= 0 ) LIMIT 1   [ RunTime:0.001099s ]
+SQL: SHOW COLUMNS FROM `bao_shopyuyue` [ RunTime:0.001272s ]
+ERR: 1146:Table 'hongbaomysqldb.bao_shopyuyue' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `bao_shopyuyue`
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+NOTIC: [2] strtoupper() expects parameter 1 to be string, array given /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 509 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_shopyuyue` WHERE ( (`create_time` <= 1542630621) AND (`create_time` >= 1542556800)  ) LIMIT 1   [ RunTime:0.001158s ]
+ERR: 1146:Table 'hongbaomysqldb.bao_shopyuyue' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `bao_shopyuyue` WHERE ( (`create_time` <= 1542630621) AND (`create_time` >= 1542556800)  ) LIMIT 1  
+SQL: SHOW COLUMNS FROM `bao_users` [ RunTime:0.001425s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_users` LIMIT 1   [ RunTime:0.001122s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+NOTIC: [2] strtoupper() expects parameter 1 to be string, array given /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 509 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_users` WHERE ( (`reg_time` <= 1542630621) AND (`reg_time` >= 1542556800)  ) LIMIT 1   [ RunTime:0.007005s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_users` WHERE (  (`mobile` IS NULL)  ) LIMIT 1   [ RunTime:0.001128s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_users` WHERE (  (`email` IS NULL)  ) LIMIT 1   [ RunTime:0.001118s ]
+SQL: SHOW COLUMNS FROM `bao_connect` [ RunTime:0.001277s ]
+ERR: 1146:Table 'hongbaomysqldb.bao_connect' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `bao_connect`
+NOTIC: [8] Use of undefined constant weixin - assumed 'weixin' /www/web/gold_com/public_html/Baocms/Lib/Action/Admin/IndexAction.class.php 第 73 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_connect` WHERE ( `type` = 'weixin' ) LIMIT 1   [ RunTime:0.001152s ]
+ERR: 1146:Table 'hongbaomysqldb.bao_connect' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `bao_connect` WHERE ( `type` = 'weixin' ) LIMIT 1  
+NOTIC: [8] Use of undefined constant weibo - assumed 'weibo' /www/web/gold_com/public_html/Baocms/Lib/Action/Admin/IndexAction.class.php 第 74 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_connect` WHERE ( `type` = 'weibo' ) LIMIT 1   [ RunTime:0.001123s ]
+ERR: 1146:Table 'hongbaomysqldb.bao_connect' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `bao_connect` WHERE ( `type` = 'weibo' ) LIMIT 1  
+NOTIC: [8] Use of undefined constant qq - assumed 'qq' /www/web/gold_com/public_html/Baocms/Lib/Action/Admin/IndexAction.class.php 第 75 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_connect` WHERE ( `type` = 'qq' ) LIMIT 1   [ RunTime:0.001114s ]
+ERR: 1146:Table 'hongbaomysqldb.bao_connect' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `bao_connect` WHERE ( `type` = 'qq' ) LIMIT 1  
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+NOTIC: [2] strtoupper() expects parameter 1 to be string, array given /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 509 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_connect` WHERE ( (`reg_time` <= 1542630621) AND (`reg_time` >= 1542556800)  ) LIMIT 1   [ RunTime:0.001119s ]
+ERR: 1146:Table 'hongbaomysqldb.bao_connect' doesn't exist
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `bao_connect` WHERE ( (`reg_time` <= 1542630621) AND (`reg_time` >= 1542556800)  ) LIMIT 1  
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_order` WHERE ( `status` >= 0 ) LIMIT 1   [ RunTime:0.001112s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT `user_id` FROM `bao_users` WHERE ( is_robot=1 )  [ RunTime:0.001120s ]
+SQL: SHOW COLUMNS FROM `bao_paid` [ RunTime:0.001348s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_paid` WHERE ( user_id in (1675634,1675635,1675618,1675619,1675620,1675621,1675622,1675623,1675624,1675625,1675626,1675627,1675628,1675629,1675630,1675631,1675632,1675633,1675613,1675615,1675616,1675636,1675637,1675638,1675639,1675640) )  [ RunTime:0.001113s ]
+SQL: SHOW COLUMNS FROM `bao_kickback` [ RunTime:0.001319s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_kickback` WHERE ( is_robot=1 )  [ RunTime:0.001115s ]
+SQL: SHOW COLUMNS FROM `bao_fanyong` [ RunTime:0.001340s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(fenyong_edu) as money FROM `bao_fanyong` WHERE ( 1 )  [ RunTime:0.001117s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_paid` WHERE ( 1 )  [ RunTime:0.001105s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_paid` WHERE ( type=7 and is_afect=1 )  [ RunTime:0.001100s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_paid` WHERE ( remark='体验金' )  [ RunTime:0.001090s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_paid` WHERE ( remark='支付宝充值' )  [ RunTime:0.001088s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_paid` WHERE ( remark='支付宝充值' and creatime>1542556800 )  [ RunTime:0.001093s ]
+SQL: SHOW COLUMNS FROM `bao_tixian` [ RunTime:0.001362s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_tixian` WHERE ( 1 )  [ RunTime:0.001140s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_tixian` WHERE ( status=1 )  [ RunTime:0.001099s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_tixian` WHERE ( time>1542556800 )  [ RunTime:0.001101s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT sum(money) as money FROM `bao_tixian` WHERE ( status=1 and time>1542556800 )  [ RunTime:0.001110s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_paid` WHERE ( remark='发送红包' ) LIMIT 1   [ RunTime:0.001104s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Db.class.php 第 605 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `bao_paid` WHERE ( remark='中雷' and money>0 ) LIMIT 1   [ RunTime:0.001098s ]
+NOTIC: [8] Constant THEME_PATH already defined /www/web/gold_com/public_html/Core/Lib/Core/View.class.php 第 154 行.
+NOTIC: [8] Constant APP_TMPL_PATH already defined /www/web/gold_com/public_html/Core/Lib/Core/View.class.php 第 155 行.
+INFO: [ view_parse ] --START--
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 273 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 168 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 399 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 404 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 197 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Template/ThinkTemplate.class.php 第 137 行.
+NOTIC: [8] Undefined index: site /www/web/gold_com/public_html/Baocms/Runtime/Cache/Admin/3e120f5f89d5ac0ba8b2a7d7f756f1a6.php 第 5 行.
+NOTIC: [8] Undefined index: site /www/web/gold_com/public_html/Baocms/Runtime/Cache/Admin/3e120f5f89d5ac0ba8b2a7d7f756f1a6.php 第 6 行.
+NOTIC: [8] Undefined index: site /www/web/gold_com/public_html/Baocms/Runtime/Cache/Admin/3e120f5f89d5ac0ba8b2a7d7f756f1a6.php 第 7 行.
+NOTIC: [8] Undefined variable: ad /www/web/gold_com/public_html/Baocms/Runtime/Cache/Admin/3e120f5f89d5ac0ba8b2a7d7f756f1a6.php 第 106 行.
+NOTIC: [8] Undefined variable: v /www/web/gold_com/public_html/Baocms/Runtime/Cache/Admin/3e120f5f89d5ac0ba8b2a7d7f756f1a6.php 第 107 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008228s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008261s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000238s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000162s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000085s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000725s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000366s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000398s ]
+

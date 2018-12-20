@@ -1,0 +1,120 @@
+[ 2018-11-27T23:50:59+08:00 ] 42.233.134.208 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000359s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000402s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000222s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000244s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 587 行.
+ERR: 非法操作:check
+
+[ 2018-11-27T23:51:59+08:00 ] 42.233.134.208 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000347s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000395s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000267s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 587 行.
+ERR: 非法操作:check
+
+[ 2018-11-27T23:52:59+08:00 ] 42.233.134.208 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000373s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000423s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 587 行.
+ERR: 非法操作:check
+
+[ 2018-11-27T23:53:59+08:00 ] 42.233.134.208 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000377s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000426s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000246s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 587 行.
+ERR: 非法操作:check
+
+[ 2018-11-27T23:54:59+08:00 ] 42.233.134.208 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000382s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000439s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000236s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000259s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 587 行.
+ERR: 非法操作:check
+
+[ 2018-11-27T23:55:59+08:00 ] 42.233.134.208 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000338s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000384s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000231s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 587 行.
+ERR: 非法操作:check
+
+[ 2018-11-27T23:56:59+08:00 ] 42.233.134.208 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000337s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000379s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000278s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 587 行.
+ERR: 非法操作:check
+
+[ 2018-11-27T23:57:59+08:00 ] 42.233.134.208 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000353s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000398s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000266s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 587 行.
+ERR: 非法操作:check
+
+[ 2018-11-27T23:58:59+08:00 ] 42.233.134.208 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000371s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000416s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000239s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000264s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 587 行.
+ERR: 非法操作:check
+
+[ 2018-11-27T23:59:59+08:00 ] 42.233.134.208 /admin/index/check.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000401s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000453s ]
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Lib/Core/Dispatcher.class.php 第 132 行.
+NOTIC: [8192] preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead /www/web/gold_com/public_html/Core/Common/common.php 第 217 行.
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] A session had already been started - ignoring session_start() /www/web/gold_com/public_html/Core/Common/functions.php 第 587 行.
+ERR: 非法操作:check
+
